@@ -1,0 +1,70 @@
+
+ 
+body {
+  display: table;
+  width: 100%;
+  
+}
+.clase-general{
+  display: table-row;
+}
+ footer {
+   background: black; height:100px;
+ }
+
+#logo{
+	
+
+    position: relative;
+    top: -15px;
+}
+#inicio{
+	position: relative;
+	left:270px;
+}
+#crear{
+	position: relative;
+	left: 200px;
+	background:#4DBADA;
+	color:white;
+}
+#contdescripcion,#contcategoria{
+	position: relative;
+	left: 100px;
+
+}
+#buscarid{
+	background:#4DBADA;
+	color:white;
+
+}
+#producto{
+	position: absolute;
+	top:20px;
+	left:240px;
+}
+#sucursal{
+	position: absolute;
+	top:20px;
+	left:350px;
+}
+#puntos{
+	position: absolute;
+	top:20px;
+	left:458px;
+}
+#publicaciones{
+	position: absolute;
+	top:20px;
+	left:558px;
+}
+#usuarios{
+	position: absolute;
+	top:20px;
+	left:700px;
+}
+#empresas{
+	position: absolute;
+	top:20px;
+	left:810px;
+}

@@ -1,0 +1,9 @@
+Promociones Manizales
+  (El logo siempre debe ir al lado derecho)
+- Al modificar se da�a la imagen si intento modificar
+  (Al modificar se debe cargar el select correcto con la info de la llave for�nea)
+ (Cambia el with de las imagenes para que no se vea tan grande)
+ (Implementar los botones de regresar en view y modify)
+( Validacion de fechas inicio y fin ... e implementarlas con jquery no con tipo date)
+
+

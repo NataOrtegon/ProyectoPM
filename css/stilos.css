@@ -1,0 +1,50 @@
+body {
+		font-size: 62.5%;
+	}
+	label {
+		display: inline-block;
+		width: 100px;
+	}
+	legend {
+		padding: 0.5em;
+	}
+	fieldset fieldset label {
+		display: block;
+	}
+	#commentForm {
+		width: 500px;
+	}
+	#commentForm label {
+		width: 250px;
+	}
+	#commentForm label.error, #commentForm button.submit {
+		margin-left: 253px;
+	}
+	#signupForm {
+		width: 670px;
+	}
+	#signupForm label.error {
+		margin-left: 10px;
+		width: auto;
+		display: inline;
+	}
+	#newsletter_topics label.error {
+		display: none;
+		margin-left: 103px;
+	}
+	label.error{
+		position: relative;
+		left:-250px;
+		color: red;
+	}
+	#messageBox{
+		display: none;
+		border: 1px solid red;
+		margin: 10px;
+		width: 480px;
+		padding: 10px;
+		color: red;
+	}
+	label.valid{
+		color: green;
+	}
